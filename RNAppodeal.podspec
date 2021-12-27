@@ -20,6 +20,19 @@ Pod::Spec.new do |s|
   s.dependency "React"
   s.dependency "Appodeal", "2.10.3"
   s.dependency "StackConsentManager", "~> 1.1.2"
+  
+  s.dependency 'APDAdColonyAdapter'
+  s.dependency 'APDAmazonAdsAdapter'
+  s.dependency 'APDAppLovinAdapter'
+  s.dependency 'APDBidMachineAdapter'
+  s.dependency 'APDFacebookAudienceAdapter'
+  s.dependency 'APDGoogleAdMobAdapter'
+  s.dependency 'APDIronSourceAdapter'
+  s.dependency 'APDMyTargetAdapter'
+  s.dependency 'APDOguryAdapter'
+  s.dependency 'APDUnityAdapter'
+  s.dependency 'APDVungleAdapter'
+  s.dependency 'APDYandexAdapter'
 end
 
   
